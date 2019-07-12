@@ -61,6 +61,10 @@ go nicely as a footer to the page, instead of a vertical list. Change
 its `display` value to block and make sure each of the `<div>`s is
 `float`ing to the `left`.*/
 
+#details {
+  text-align: center;
+}
+
 #details div {
   display: inline-block;
   text-align: center;

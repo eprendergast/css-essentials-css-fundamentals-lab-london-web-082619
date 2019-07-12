@@ -24,7 +24,7 @@ on their left and right sides. In addition, change their background
 color to something of your choosing. We chose grey!*/
 
 nav a {
-  text-align: center;
+  text-align: left;
   padding-left: 10px;
   padding-right: 10px;
   background-color: #D1E2E8;

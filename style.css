@@ -23,7 +23,7 @@ as well. Give all of the `<a>` tags within our navbar padding of 10px
 on their left and right sides. In addition, change their background
 color to something of your choosing. We chose grey!*/
 nav a {
-  text-align: center'
+  text-align: center;
   padding-left: 10px;
   padding-right: 10px;
   background-color: #D1E2E8;

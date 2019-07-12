@@ -3,3 +3,48 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+}
+
+#featured-property {
+  position: center;
+}
+
+#featured-property p {
+  width: 800px;
+  /*text-align: center;*/
+  position: center;
+}
+
+#details {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+/*10px on their left and right sides.
+In addition, change their background color
+to something of your choosing. */
+
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #D1E2E8;
+}
+
+figcaption {
+  font-size: 12px;
+  text-align: center;
+}

@@ -46,12 +46,12 @@ text in there.*/
 
 #featured-property {
   text-align: center;
-  width: 800px;
 }
 
 
 #featured-property p {
   color: red;
+  width: 50px;
 }
 
 /*- **Make our `#details` section horizontal**: The details section could

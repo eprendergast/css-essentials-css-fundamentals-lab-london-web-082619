@@ -44,10 +44,8 @@ centered as well? Our image is about 900px wide, so let's give all our
 `<p>` within `#featured-property` a hard width of 800px and center the
 text in there.*/
 
-#featured-property > p {
-  width: 800px;
-  /*text-align: center;*/
-  position: center;
+#featured-property {
+  color: red;
 }
 
 /*- **Make our `#details` section horizontal**: The details section could

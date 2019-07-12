@@ -69,7 +69,7 @@ its `display` value to block and make sure each of the `<div>`s is
 #details div {
   display: inline-block;
   text-align: center;
-  padding: 100px;
+  padding-left: 50px;
 }
 
 /*- **As a finishing touch**: Let's clean up the `<div>`s at the bottom

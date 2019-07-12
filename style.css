@@ -52,6 +52,7 @@ text in there.*/
 #featured-property p {
   color: red;
   width: 40%;
+  text-align: center;
 }
 
 /*- **Make our `#details` section horizontal**: The details section could

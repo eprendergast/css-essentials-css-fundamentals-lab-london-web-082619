@@ -50,8 +50,9 @@ text in there.*/
 
 
 #featured-property p {
-  padding-left: 200px;
-  padding-right: 200px;
+  /*padding-left: 200px;
+  padding-right: 200px;*/
+  display: block;
 }
 
 /*- **Make our `#details` section horizontal**: The details section could

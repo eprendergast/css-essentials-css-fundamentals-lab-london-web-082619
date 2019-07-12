@@ -51,7 +51,8 @@ text in there.*/
 
 #featured-property p {
   color: red;
-  padding: 100px;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 /*- **Make our `#details` section horizontal**: The details section could
